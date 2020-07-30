@@ -1,5 +1,5 @@
 //Owen Wilborn
-//main.cpp
+//LinkedListMain.cpp
 //Used to test the LinkedList class implementation
 
 //Local Libraries
