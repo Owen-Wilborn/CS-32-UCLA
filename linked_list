@@ -343,7 +343,7 @@ using namespace std;
 int main()
 {
 	/*
-	//CS test cases
+	//CS test cases from UCLA professor Edwin Ambrosio
 	cout << "****Provided Test Cases****" <<endl;
 	cout << "---Test 1---" << endl;
 	LinkedList ls;
@@ -439,7 +439,7 @@ int main()
 	cout << "Test 5 Passed" << endl;
 	cout <<"****End Provided Test Cases****" << endl << endl;
 
-	//My test cases
+	//Owen Wilborn test cases
 	cout << "****My Test Cases****" << endl;
 	LinkedList list1;
 	string item = "Hello";
